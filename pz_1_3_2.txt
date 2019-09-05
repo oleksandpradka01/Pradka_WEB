@@ -1,0 +1,10 @@
+git branch pz_1_3_1
+git checkout pz_1_3_1
+git add *
+git commit -m "записал в файл "
+git checkout master
+git merge pz_1_3_1
+git branch -d pz_1_3_1
+git push
+git branch Developer
+git checkout Developer
