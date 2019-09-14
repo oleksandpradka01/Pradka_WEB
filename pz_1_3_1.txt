@@ -1,8 +1,0 @@
-git clone https://github.com/oleksandpradka01/Pradka_WEB.git
-git add *
-git commit -m "ferst commit"
-git add *
-git commit -m "second commit"
-git push
-git branch pz_1_3_1
-git checkout pz_1_3_1
